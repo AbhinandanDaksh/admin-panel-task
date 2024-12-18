@@ -35,4 +35,4 @@ This project is a fully responsive **Admin Panel** built using **React** and **T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/AbhinandanDaksh/admin-panel-task.git
